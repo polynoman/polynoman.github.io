@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
 
+BASE_PATH : /polynoman
+
 defaults:
   - scope:
       path: "assets/img"
